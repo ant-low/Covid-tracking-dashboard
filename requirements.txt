@@ -1,0 +1,9 @@
+ipywidgets
+jupyterlab
+matplotlib
+nbconvert
+notebook
+numpy
+pandas
+requests
+voila
